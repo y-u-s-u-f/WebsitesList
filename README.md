@@ -1,81 +1,92 @@
 # Useful Websites
 
--   [10 Minute Mail](https://10minutemail.com/) - Free anonymous temporary email.
+[10 Minute Mail](https://10minutemail.com/) - Free anonymous temporary email.
 
--   [Adobe Firefly](https://firefly.adobe.com/) - Generate anything you can imagine.
+[Profile Pic Maker](https://pfpmaker.com/) - Create an awesome profile picture for free.
 
--   [Affiliate Hunter](https://www.bestaffiliateprograms.io/) - Discover the best affiliate programs that pay the highest commission.
+[Squoosh](https://squoosh.app/) - Image compression web app.
 
--   [AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations.
+[Excalidraw](https://excalidraw.com/) - Open source virtual hand-drawn style whiteboard.
 
--   [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker.
+[Photopea](https://www.photopea.com/) - Free Photoshop alternative.
 
--   [Coolors](https://coolors.co/) - Randomly generates 5 matching colors.
+[Shots](https://shots.so/) - Create amazing mockups in a matter of seconds.
 
--   [Ecosia](https://www.ecosia.org/) - Search engine that plants trees with its ad revenue.
+[macOSicons](https://macosicons.com/) - 20000+ free icons for macOS.
 
--   [Edit • Photo](https://edit.photo/) - The free online photo editor in your browser.
+[Where is this](https://www.where-is-this.com/) - Find your place.
 
--   [Excalidraw](https://excalidraw.com/) - Open source virtual hand-drawn style whiteboard.
+[OneLook](https://onelook.com/) - Reverse Dictionary.
 
--   [GetLinkInfo](https://getlinkinfo.com/) - Get information about a link before visiting it.
+[Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email address or password is in a data breach.
 
--   [Google Fonts](https://fonts.google.com/) - Library of 1500+ open source font families.
+[Tineye](https://tineye.com/) - Find where images appear online.
 
--   [Hakei](https://app.haikei.app/) - Create beautiful wallpapers for free in seconds.
+[No-Background](https://www.no-background.coffee/ ) - Effortlessly Remove Image Background with AI
 
--   [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email address or password is in a data breach.
+[Coolors](https://coolors.co/) - Randomly generates 5 matching colors.
 
--   [Jitter](https://jitter.video/) - Motion design made simple.
+[New.space](new.space) - Simple, private file sharing.
 
--   [JustTheRecipe](https://www.justtherecipe.com/) - Clear away the clutter on any recipe site.
+[SuperCook](https://www.supercook.com/) - Find recipes you can make with the ingredients you already have.
 
--   [macOSicons](https://macosicons.com/) - 20000+ free icons for macOS.
+[AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations.
 
--   [Mehvix's Free Sticker List](https://docs.google.com/spreadsheets/d/1SJLWhl0eNVCDNzd5pLnhcLyZEK80RwKnVW26H6nM8Z4/edit#gid=0) - List of free stickers.
+[camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker.
 
--   [Monkeytype](https://monkeytype.com/) - Minimalistic, customizable typing test.
+[Ecosia](https://www.ecosia.org/) - Search engine that plants trees with it's ad revenue.
 
--   [MuscleWiki](https://musclewiki.com/) - Simplify your workout.
+[GetLinkInfo](https://getlinkinfo.com/) - Get information about a link before visiting it.
 
--   [Music-Map](https://www.music-map.com/) - Find similar music.
+[Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures.
 
--   [Neal.fun](https://neal.fun/) - A tiny website by Neal Agarwal.
+[Affiliate Hunter](https://www.bestaffiliateprograms.io/) - Discover the best affiliate programs that pay the highest commission.
 
--   [No-Background](https://www.no-background.coffee/) - Effortlessly Remove Image Background with AI.
+[Sleepytime](https://sleepopolis.com/calculators/sleep/) - Sleep Cycle Calculator.
 
--   [OneLook](https://onelook.com/) - Reverse Dictionary.
+[RapidTables](https://www.rapidtables.com/) - Online calculators and tools for various purposes.
 
--   [Photopea](https://www.photopea.com/) - Free Photoshop alternative.
+[Photomosh](https://photomosh.com/) - Unlimited creative control for image and video glitching.
 
--   [Photomosh](https://photomosh.com/) - Unlimited creative control for image and video glitching.
+[Wisecut](https://www.wisecut.video/) - Automatically cut and edit videos with AI.
 
--   [Profile Pic Maker](https://pfpmaker.com/) - Create an awesome profile picture for free.
+[Jitter](https://jitter.video/) - Motion design made simple.
 
--   [RapidTables](https://www.rapidtables.com/) - Online calculators and tools for various purposes.
+[Edit • Photo](https://edit.photo/) - The free online photo editor in your browser.
 
--   [Recraft](https://recraft.ai) - Free unlimited AI image generation.
+[Literal.club](https://literal.club) - Discover, organize, and discuss books (Goodreads alternative).
 
--   [Shots](https://shots.so/) - Create amazing mockups in a matter of seconds.
+[Google Fonts](https://fonts.google.com/) - Library of 1500+ open source font families.
 
--   [Sleepytime](https://sleepopolis.com/calculators/sleep/) - Sleep Cycle Calculator.
+[JustTheRecipe](https://www.justtherecipe.com/) - Clear away the clutter on any recipe site.
 
--   [Squoosh](https://squoosh.app/) - Image compression web app.
+[Monkeytype](https://monkeytype.com/) - Minimalistic, customizable typing test.
 
--   [SuperCook](https://www.supercook.com/) - Find recipes you can make with the ingredients you already have.
+[ThanAverage](https://thanaverage.xyz/) - Compare yourself to average.
 
--   [Text Studio](https://www.textstudio.com/) - 3D logo and text generator.
+[Neal.fun](https://neal.fun/) - A tiny website by Neal Agarwal.
 
--   [ThanAverage](https://thanaverage.xyz/) - Compare yourself to average.
+[MuscleWiki](https://musclewiki.com/) - Simplify your workout.
 
--   [Tineye](https://tineye.com/) - Find where images appear online.
+[Music-Map](https://www.music-map.com/) - Find similar music.
 
--   [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures.
+[Recraft](recraft.ai) - Free unlimited ai image generation.
 
--   [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Book recommendations from readers like you.
+[Text Studio](https://www.textstudio.com/) - 3D logo and text generator
 
--   [Where is this](https://www.where-is-this.com/) - Find your place.
+[Mehvix's Free Sticker List](https://docs.google.com/spreadsheets/d/1SJLWhl0eNVCDNzd5pLnhcLyZEK80RwKnVW26H6nM8Z4/edit#gid=0) - List of free stickers
 
--   [Wormhole](https://wormhole.app/) - Simple, private file sharing.
+[Adobe Firefly](https://firefly.adobe.com/) - Generate anything you can imagine.
 
--   [Wisecut](https://www.wisecut.video/) - Automatically cut and edit videos with AI.
+[Hakei](https://app.haikei.app/) - Create beautiful wallpapers for free in seconds.
+
+[Sizzle](https://web.szl.ai/) - Free AI tutor for everyone.
+
+[myNoise](https://mynoise.net/) - Custom Soundscapes to Focus, Relax & Sleep.
+
+[Keybr](https://www.keybr.com/) - Typing practice lessons to improve your speed and accuracy.
+
+[is.gd](https://is.gd/) - Simple, free, no-BS URL shortener.
+
+[Radio Garden](https://radio.garden/) - Explore live radio by rotating the globe.
+
