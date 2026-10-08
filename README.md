@@ -1,6 +1,6 @@
 # Useful Websites
 
-[10 Minute Mail](https://10minutemail.com/) - Free anonymous temporary email.
+[Temp Email](https://www.tempemail.cc/) - Free anonymous temporary email.
 
 [Profile Pic Maker](https://pfpmaker.com/) - Create an awesome profile picture for free.
 
@@ -14,43 +14,33 @@
 
 [macOSicons](https://macosicons.com/) - 20000+ free icons for macOS.
 
-[Where is this](https://www.where-is-this.com/) - Find your place.
-
 [OneLook](https://onelook.com/) - Reverse Dictionary.
 
 [Have I Been Pwned](https://haveibeenpwned.com/) - Check if your email address or password is in a data breach.
 
 [Tineye](https://tineye.com/) - Find where images appear online.
 
-[No-Background](https://www.no-background.coffee/ ) - Effortlessly Remove Image Background with AI
+[remove.bg](https://www.remove.bg/) - Effortlessly Remove Image Background with AI
 
 [Coolors](https://coolors.co/) - Randomly generates 5 matching colors.
 
-[New.space](new.space) - Simple, private file sharing.
+[New.space](https://new.space/) - Simple, private file sharing.
 
-[SuperCook](https://www.supercook.com/) - Find recipes you can make with the ingredients you already have.
-
-[AlternativeTo](https://alternativeto.net/) - Crowdsourced software recommendations.
+[AlternativeTo](https://alternativeto.net/) - Crowdsourced software alternatives.
 
 [camelcamelcamel](https://camelcamelcamel.com/) - Free Amazon price tracker.
 
 [Ecosia](https://www.ecosia.org/) - Search engine that plants trees with it's ad revenue.
 
-[GetLinkInfo](https://getlinkinfo.com/) - Get information about a link before visiting it.
+[httpstatus](https://httpstatus.io/) - Information about websites.
 
 [Unsplash](https://unsplash.com/) - Beautiful Free Images & Pictures.
 
-[Affiliate Hunter](https://www.bestaffiliateprograms.io/) - Discover the best affiliate programs that pay the highest commission.
+[affiliate.watch](https://affiliate.watch/) - Discover the best affiliate programs that pay the highest commission.
 
-[Sleepytime](https://sleepopolis.com/calculators/sleep/) - Sleep Cycle Calculator.
+[SleepUtility](https://sleeputility.com/) - Optimize your sleep.
 
 [RapidTables](https://www.rapidtables.com/) - Online calculators and tools for various purposes.
-
-[Photomosh](https://photomosh.com/) - Unlimited creative control for image and video glitching.
-
-[Wisecut](https://www.wisecut.video/) - Automatically cut and edit videos with AI.
-
-[Jitter](https://jitter.video/) - Motion design made simple.
 
 [Edit • Photo](https://edit.photo/) - The free online photo editor in your browser.
 
@@ -70,11 +60,7 @@
 
 [Music-Map](https://www.music-map.com/) - Find similar music.
 
-[Recraft](recraft.ai) - Free unlimited ai image generation.
-
 [Text Studio](https://www.textstudio.com/) - 3D logo and text generator
-
-[Mehvix's Free Sticker List](https://docs.google.com/spreadsheets/d/1SJLWhl0eNVCDNzd5pLnhcLyZEK80RwKnVW26H6nM8Z4/edit#gid=0) - List of free stickers
 
 [Adobe Firefly](https://firefly.adobe.com/) - Generate anything you can imagine.
 
@@ -90,3 +76,34 @@
 
 [Radio Garden](https://radio.garden/) - Explore live radio by rotating the globe.
 
+[Mixkit](https://mixkit.co/) - Free assets for your next video project.
+
+[Untools](https://untools.co/) - Tools for better thinking.
+
+[Copychar](https://copychar.cc/) - Copy special symbols.
+
+[ManualsLib](https://www.manualslib.com/) - The ultimate manuals library.
+
+[Lucide](https://lucide.dev/) - Beautiful, consistent open-source icon set.
+
+[archive.ph](https://archive.ph/) - Snapshot any webpage forever.
+
+[Diffchecker](https://www.diffchecker.com/) - Compare text, images, PDFs side-by-side in seconds.
+
+[Cobalt](https://cobalt.tools/) - Save what you love without ads, tracking, paywalls or other nonsense.
+
+[WolframAlpha](https://www.wolframalpha.com/) - Computational knowledge engine.
+
+[Desmos](https://www.desmos.com/) - Gorgeous free graphing calculator.
+
+[Defuddle](https://defuddle.md/) - Extract clean readable content from any webpage.
+
+[PrintFriendly](https://www.printfriendly.com/) - Strip ads and clutter from any webpage and save it as a clean PDF.
+
+[BentoPDF](https://www.bentopdf.com/) - Free online PDF tools.
+
+[Skills.sh](https://www.skills.sh/) - The Open Agent Skills Ecosystem
+
+[Ditther](https://app.ditther.com/) - Image and video effects editor with 75+ creative effects.
+
+[Postplan](https://postplan.dev/) - Publish static HTML drafts from AI agents.
