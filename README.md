@@ -107,3 +107,23 @@
 [Ditther](https://app.ditther.com/) - Image and video effects editor with 75+ creative effects.
 
 [Postplan](https://postplan.dev/) - Publish static HTML drafts from AI agents.
+
+[CyberChef](https://gchq.github.io/CyberChef/) - Encode, decode, convert and analyze data in your browser.
+
+[VERT](https://vert.sh/) - Open source file converter that runs on your device. No ads, no tracking.
+
+[When2meet](https://www.when2meet.com/) - Find a time that works for everyone.
+
+[Fast.com](https://fast.com/) - Instant internet speed test.
+
+[Explainshell](https://explainshell.com/) - Breaks down any shell command.
+
+[Carbon](https://carbon.now.sh/) - Turn code into clean images.
+
+[JustDeleteMe](https://justdeleteme.xyz/) - Direct links to delete your accounts.
+
+[Flightradar24](https://www.flightradar24.com/) - Track planes live.
+
+[JustWatch](https://www.justwatch.com/) - Find where to stream any movie or show.
+
+[Open Library](https://openlibrary.org/) - Free, open catalog to read and borrow millions of books.
