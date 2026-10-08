@@ -1,6 +1,6 @@
 # Useful Websites
 
-[Temp Email](https://www.tempemail.cc/) - Free anonymous temporary email.
+[Mail.tm](https://mail.tm/) - Free, private temporary email with password-protected inboxes.
 
 [Profile Pic Maker](https://pfpmaker.com/) - Create an awesome profile picture for free.
 
