@@ -127,3 +127,5 @@
 [JustWatch](https://www.justwatch.com/) - Find where to stream any movie or show.
 
 [Open Library](https://openlibrary.org/) - Free, open catalog to read and borrow millions of books.
+
+[Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) - Free no-sign-up roof replacement cost calculator for U.S. homeowners, with inputs for roof size, material, pitch, tear-off needs, and location.
